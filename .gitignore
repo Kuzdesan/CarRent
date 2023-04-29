@@ -3,3 +3,4 @@
 *.class
 CarRenting.iml
 src/BaseAdminData.java
+src/diagram.uml
