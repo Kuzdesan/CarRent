@@ -10,4 +10,4 @@
 <h3 style="color: khaki ; font-family: 'Century Gothic', cursive; font-style: italic"> P.S. The code is documented, so that it will be clear to anyone </h3>
 <h2 style="color: darkorange; font-family: 'Century Gothic', sans-serif"> Classes Diagram </h2>
 
-![](diagram.png)
+![diagram](https://user-images.githubusercontent.com/99547319/235306032-8d308d50-bb46-40aa-89ea-f9bb2a12f319.png)
